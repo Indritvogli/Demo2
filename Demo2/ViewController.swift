@@ -6,6 +6,7 @@
 //  Copyright © 2016 Indrit Vogli. All rights reserved.
 //  This is a Comment
 // This is comment 2
+// Last change
 
 import UIKit
 
